@@ -1,2 +1,1 @@
-# NS_SaitamaCoder
-File .gs opensource for everyone to build an NS calendar
+Without any instructions, copy it into your AI to check and change the months and dates according to your schedule and run it at https://script.google.com/
